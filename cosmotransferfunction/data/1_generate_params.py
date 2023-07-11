@@ -9,7 +9,7 @@ params_range = [(0.01875, 0.02625), (0.05, 0.255), (0.64, 0.82)]
 
 # Define number of parameters and samples
 nparams = len(params_list)
-nsamples = 100
+nsamples = 40000
 
 # Define parameter range
 params = np.vstack([
